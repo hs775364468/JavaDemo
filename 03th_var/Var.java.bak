@@ -1,0 +1,13 @@
+
+public class Var {
+	public static void main(String args[]) {
+		int   a = 3;
+		float f = 3.14;
+
+		/* JavaŒﬁ÷∏’Î */
+		//int* p = malloc(10*sizeof(int));
+		char str[100];
+	}
+}
+
+
